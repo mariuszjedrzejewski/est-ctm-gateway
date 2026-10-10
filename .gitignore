@@ -9,3 +9,4 @@
 # Executable files
 cmd/estserver/estserver
 cmd/estclient/estclient
+.vscode/

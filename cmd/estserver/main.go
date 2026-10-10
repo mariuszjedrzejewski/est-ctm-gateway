@@ -35,10 +35,10 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/globalsign/pemfile"
 	"github.com/mariuszjedrzejewski/est-ctm-gateway"
 	"github.com/mariuszjedrzejewski/est-ctm-gateway/internal/basiclogger"
 	"github.com/mariuszjedrzejewski/est-ctm-gateway/internal/mockca"
-	"github.com/globalsign/pemfile"
 )
 
 const (
