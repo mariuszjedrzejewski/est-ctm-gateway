@@ -8,5 +8,8 @@
 
 # Executable files
 cmd/estserver/estserver
+cmd/estserver/__debug_bin.exe
 cmd/estclient/estclient
+
+# IDE files
 .vscode/
