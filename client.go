@@ -114,7 +114,7 @@ type Client struct {
 // Client constants.
 const (
 	estVersion = "v1.0.6"
-	userAgent  = "GlobalSign EST Client " + estVersion + " github.com/globalsign/est"
+	userAgent  = "GlobalSign EST Client " + estVersion + " github.com/mariuszjedrzejewski/est-ctm-gateway"
 )
 
 // CACerts requests a copy of the current CA certificates.

@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/globalsign/est"
+	"github.com/mariuszjedrzejewski/est-ctm-gateway"
 )
 
 func TestCSRAttrsMarshal(t *testing.T) {

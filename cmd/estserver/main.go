@@ -35,9 +35,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/globalsign/est"
-	"github.com/globalsign/est/internal/basiclogger"
-	"github.com/globalsign/est/internal/mockca"
+	"github.com/mariuszjedrzejewski/est-ctm-gateway"
+	"github.com/mariuszjedrzejewski/est-ctm-gateway/internal/basiclogger"
+	"github.com/mariuszjedrzejewski/est-ctm-gateway/internal/mockca"
 	"github.com/globalsign/pemfile"
 )
 

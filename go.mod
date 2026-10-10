@@ -1,4 +1,4 @@
-module github.com/globalsign/est
+module github.com/mariuszjedrzejewski/est-ctm-gateway
 
 go 1.27.1
 

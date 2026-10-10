@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/globalsign/est/internal/basiclogger"
+	"github.com/mariuszjedrzejewski/est-ctm-gateway/internal/basiclogger"
 )
 
 func TestLogger(t *testing.T) {

@@ -23,7 +23,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/globalsign/est/internal/tpm"
+	"github.com/mariuszjedrzejewski/est-ctm-gateway/internal/tpm"
 	"github.com/google/go-tpm/legacy/tpm2"
 )
 
